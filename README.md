@@ -19,7 +19,7 @@ To learn more about my abilities and experience, please take a look at my Portfo
 # 💫 About Me:
 👨‍🔧 I am in the process of creating a personal portfolio website. <br><br>🌱 Currently, I'm learning Advance Svelte (a JavaScript framework).<br><br>💬 I can help with HTML, CSS, JS, Svelte, Linux, etc (related to Front-End Development).<br><br>⚡ Even when I write a single capital letter, I use Caps Lock. 😂
 
-![Banner](banner4allsmall .png)
+![Banner](https://github.com/Right2Code-09/Right2Code-09/blob/main/banner4allsmall%20.png?raw=true)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/right_2_code) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/right-2-code-aa59a1278/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@right2code09) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21973458/right-2-code) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@Right2Code-09) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Right-2-Code) 
